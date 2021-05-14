@@ -5,7 +5,7 @@ This project is about using Python to analyze Stock Market data and use said dat
 a functioning trading algorithm that gives the user some type of positive return on a given stock. There would also have to be some way to test the trading algorithm without a user actually putting real money into it; some
 way to backtest the algorithm.
 
-## Goals?
+## Goals/Plan
 - Analyze quanitative stock data from a stock from a large company
 - Generate some visuals for given stock
 - Apply common financial analysis on given stock
@@ -26,3 +26,13 @@ and I will keep note of the total file size after I finish this project. It will
 TOTAL PROJECT FILESIZE: 
 
 ## Summary of Research
+Based on my research, many of the resources I looked at stated the most important part of an algorithmic trading project is coming up with a trading algorithm. It's the most crucial part of the project and serves as the basis
+for the rest of the conclusions you can draw from the quanitative stock data. Links to the articles, blogs, and other GitHub repos I looked at can be found below:
+- https://docs.quandl.com/
+- https://www.freecodecamp.org/news/algorithmic-trading-in-python/
+- https://medium.datadriveninvestor.com/machine-learning-models-for-market-beating-trading-strategies-c773ba46db66
+- https://medium.datadriveninvestor.com/designing-market-beating-trading-strategies-utilizing-ml-models-61b8256065dc
+- https://www.oreilly.com/content/algorithmic-trading-in-less-than-100-lines-of-python-code/
+- https://blog.quantinsti.com/python-trading/
+- https://github.com/gbeced/pyalgotrade
+- https://github.com/nickmccullum/algorithmic-trading-python
